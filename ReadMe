@@ -1,0 +1,6 @@
+components:
+1.com.Emerge.base: this contains The drivers .
+2.com.Emerge.config: this contains the URL and the uasername and password for login if we Have 
+3.com.Emerge.testcase: this contains 2 classes 1.Config.java contains the configuration of ExtentReport ,2.Register.java contains testcases
+4.com.Emerge.util: this contains 2 classes 1.TestUtils this is the Method for Excel sheet and Snapshots ,2.WebListener.java contains the All configuration oflistener
+5.TestReport : this all Status of TestCases
